@@ -205,6 +205,7 @@ new Vue({
   <option value="b">B</option>
   <option value="c">C</option>
 </select>
+<p>{{ val }}</p>
 ```
 
 ```js
